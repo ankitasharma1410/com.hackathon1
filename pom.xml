@@ -63,7 +63,6 @@
 								<source>src/main/xsd/pain.008.001.02.xsd</source>
 							</sources>
 							<packageName>com.directdebit.xml.schema.pain_008_001_02</packageName>
-							<xmlschema>false</xmlschema>
 						</configuration>
 					</execution>
 					<execution>
@@ -77,7 +76,6 @@
 								<source>src/main/xsd/pain.001.003.03.xsd</source>
 							</sources>
 							<packageName>com.directdebit.xml.schema.pain_001_003_03</packageName>
-							<xmlschema>false</xmlschema>
 							<clearOutputDir>false</clearOutputDir>
 						</configuration>
 					</execution>
@@ -92,7 +90,6 @@
 								<source>src/main/xsd/pain.001.001.06.xsd</source>
 							</sources>
 							<packageName>com.directdebit.xml.schema.pain_001_001_06</packageName>
-							<xmlschema>false</xmlschema>
 							<clearOutputDir>false</clearOutputDir>
 						</configuration>
 					</execution>
